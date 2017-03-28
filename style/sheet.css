@@ -7,10 +7,5 @@ main > footer {
 }
 
 main section {
-  background-color: whitesmoke;
-  border: 0;
-  font-size: large;
-  height: 90vh;
-  outline: none;
-  width: 99.75vw;
+    width: 90vw;
 }
